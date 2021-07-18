@@ -29,13 +29,13 @@
 #### Exibe as alterações do arquivo informado
 > ```git diff arquivo.txt```	
 
-#### Adiciona todos os arquivos do diretório
+#### Adiciona um único arquivos em específico
 > ```git add arquivo.txt```
 
 #### Adiciona todos os arquivos do diretório
 > ```git add .```
 
-#### Remove somento este item do git add
+#### Remove somente este item do git add
 > ```git reset arquivo.txt```
 
 #### Remove todos os arquivos e diretórios do git add
