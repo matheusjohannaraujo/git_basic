@@ -116,7 +116,7 @@
 #### Volta para o ramo principal
 > ```git checkout master```
 	
-#### Mescla o ramo master com o ramo "nome-do-ramo"
+#### Mescla o ramo atual com com o ramo informado "nome-do-ramo". Ex.: master
 > ```git merge nome-do-ramo```
 	
 #### Exclui o ramo "nome-do-ramo"
